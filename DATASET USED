@@ -1,0 +1,33 @@
+## Dataset Used
+### Sample Superstore Sales Dataset
+The Sample Superstore dataset is a retail sales dataset commonly used for data analysis, dashboard creation, and business intelligence projects. It contains transaction-level sales records from a fictional retail company and helps analyze sales performance, profitability, customer behavior, and regional trends.
+
+### Dataset Features
+The dataset includes information such as:
+* Order ID
+* Order Date
+* Ship Date
+* Customer Information
+* Region
+* State and City
+* Product Category
+* Sub-Category
+* Sales
+* Quantity
+* Discount
+* Profit
+
+### Purpose of the Dataset
+The dataset is widely used to:
+* Analyze sales trends
+* Evaluate profitability across categories
+* Identify high-performing products
+* Build dashboards and reports
+* Practice data visualization techniques
+
+### Dataset Source
+Tableau Sample Superstore Dataset:
+https://www.tableau.com/learn/sample-data
+
+Alternative Download Source:
+https://github.com/plotly/datasets/blob/master/Superstore.csv
